@@ -327,7 +327,7 @@
         "lectures": "382",
         "time": "42h 34m",
         "price": "$74.99",
-        "image_url": "",
+        "image_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
         "details": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included."
     },
     {
@@ -344,7 +344,7 @@
         "lectures": "165",
         "time": "24h 54m",
         "price": "$99.99",
-        "image_url": "",
+        "image_url": "https://images.unsplash.com/photo-1591696205602-2f950c417cb9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8ZGF0YSUyMHNjaWVuY2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
         "details": "Learn how to use NumPy, Pandas, Seaborn , Matplotlib , Plotly , Scikit-Learn , Machine Learning, Tensorflow , and more!"
     },
     {
@@ -361,7 +361,7 @@
         "lectures": "517",
         "time": "31h 51m",
         "price": "$74.99",
-        "image_url": "",
+        "image_url": "https://images.unsplash.com/photo-1526628953301-3e589a6a8b74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
         "details": "Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning"
     },
     {
@@ -378,7 +378,7 @@
         "lectures": "79",
         "time": "10h 36m",
         "price": "$74.99",
-        "image_url": "",
+        "image_url": "https://images.unsplash.com/photo-1518186285589-2f7649de83e0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
         "details": "Learn Programming In R And R Studio. Data Analytics, Data Science, Statistical Analysis, Packages, Functions, GGPlot2"
     },
     {
@@ -395,7 +395,7 @@
         "lectures": "216",
         "time": "21h 13m",
         "price": "$74.99",
-        "image_url": "",
+        "image_url": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
         "details": "Learn Data Science step by step through real Analytics examples. Data Mining, Modeling, Tableau Visualization and more!"
     },
     {
@@ -412,7 +412,7 @@
         "lectures": "116",
         "time": "15h 35m",
         "price": "$74.99",
-        "image_url": "",
+        "image_url": "https://images.unsplash.com/photo-1617240016072-d92174e44171?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
         "details": "Complete hands-on machine learning tutorial with data science, Tensorflow, artificial intelligence, and neural networks"
     },
     
@@ -420,9 +420,114 @@
     
     
     {
-        "course_id": "401",
-        "category_id": "4",
-        "category_name": "Data Science",
+        "course_id": "501",
+        "category_id": "5",
+        "category_name": "Mobile Development",
+        "title": "Mastering Sencha EXT JS: Build High-Performance Web App",
+        "ratings": "4.5",
+        "total_students": "5,970 ",
+        "instructor": "José Mourinho",
+        "last_updated": "6/2023",
+        "language": "English",
+        "sections": "10",
+        "lectures": "87",
+        "time": "9h 1m",
+        "price": "$64.99",
+        "image_url": "https://images.unsplash.com/photo-1526498460520-4c246339dccb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bW9iaWxlJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Become a Pro at Building Dynamic and Robust Web Apps with Sencha EXT JS"
+    },
+    {
+        "course_id": "502",
+        "category_id": "5",
+        "category_name": "Mobile Development",
+        "title": "Android Java Masterclass - Become an App Developer",
+        "ratings": "4.5",
+        "total_students": "69,324",
+        "instructor": "Brian Horton",
+        "last_updated": "8/2021",
+        "language": "English",
+        "sections": "13",
+        "lectures": "323",
+        "time": "60h 23m",
+        "price": "$89.99",
+        "image_url": "https://images.unsplash.com/photo-1559651451-4203db8d2776?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bW9iaWxlJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Improve your career options by learning Android app Development. Master Android Studio and build your first app today"
+    },
+    {
+        "course_id": "503",
+        "category_id": "5",
+        "category_name": "Mobile Development",
+        "title": "Android Material Design",
+        "ratings": "4.5",
+        "total_students": "2,718",
+        "instructor": "David Moyes",
+        "last_updated": "2/2017",
+        "language": "English",
+        "sections": "8",
+        "lectures": "43",
+        "time": "5h 47m",
+        "price": "$74.99",
+        "image_url": "https://images.unsplash.com/photo-1618761714954-0b8cd0026356?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bW9iaWxlJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Introduction, Implementation and Mastering. All in one!"
+    },
+    {
+        "course_id": "504",
+        "category_id": "5",
+        "category_name": "Mobile Development",
+        "title": "The Complete Android N Developer Course",
+        "ratings": "4.3",
+        "total_students": "156,407",
+        "instructor": "John Toshack",
+        "last_updated": "8/2021",
+        "language": "English",
+        "sections": "22",
+        "lectures": "272",
+        "time": "32h 30m",
+        "price": "$94.99",
+        "image_url": "https://images.unsplash.com/photo-1605379399642-870262d3d051?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bW9iaWxlJTIwZGV2ZWxvcG1lbnR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "details": "Learn Android App Development with Android 7 Nougat by building real apps including Uber, Whatsapp and Instagram!"
+    },
+    {
+        "course_id": "505",
+        "category_id": "5",
+        "category_name": "Mobile Development",
+        "title": "Xamarin Forms: Build Native Cross-platform Apps with C#",
+        "ratings": "4.6",
+        "total_students": "46,236",
+        "instructor": "Jesualdo Ferreira",
+        "last_updated": "4/2018",
+        "language": "English",
+        "sections": "10",
+        "lectures": "117",
+        "time": " 7h 27m",
+        "price": "$74.99",
+        "image_url": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fG1vYmlsZSUyMGRldmVsb3BtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "details": "Learn to build native mobile apps for Android, iOS and Windows using your existing C# skills"
+    },
+    {
+        "course_id": "506",
+        "category_id": "5",
+        "category_name": "Mobile Development",
+        "title": "The Complete React Native + Hooks Course",
+        "ratings": "4.6",
+        "total_students": "182,720",
+        "instructor": "Ron Atkinson",
+        "last_updated": "6/2023",
+        "language": "English",
+        "sections": "18",
+        "lectures": "436",
+        "time": "38h 29m",
+        "price": "$74.99",
+        "image_url": "https://images.unsplash.com/photo-1480694313141-fce5e697ee25?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fG1vYmlsZSUyMGRldmVsb3BtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "details": "Understand React Native with Hooks, Context, and React Navigation."
+    },
+    
+    
+    
+    {
+        "course_id": "501",
+        "category_id": "5",
+        "category_name": "Mobile Development",
         "title": "",
         "ratings": "",
         "total_students": "",
